@@ -6,9 +6,13 @@ MCED_sensitivity_stage_1,,Clinical study
 MCED_sensitivity_stage_2,,Clinical study
 MCED_sensitivity_stage_3,,Clinical study
 MCED_sensitivity_stage_4,,Clinical study
-MCED_specificity,,Clinical study
+MCED_specificity,0.995,Klein 2021; Raoof 2025
 screening_cost,,Literature
 diagnostic_workup_cost,,Literature
 treatment_cost,,Literature
 healthy_utility,,Literature
 cancer_utility,,Literature
+background_mortality,,Life tables
+stage_specific_survival,,SEER
+usual_care_diagnosis_probability,,Literature
+discount_rate,,Literature

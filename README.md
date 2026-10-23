@@ -37,6 +37,9 @@ strategies in lower-risk and higher-risk populations.
 - Initial proposal completed
 - Simulation framework outlined
 - Required model parameters identified
+- Parameter template (parameters.csv) created
+- Starter screening script (simulation.py) created
+- Reference results from Raoof et al. (2025) added (reference_icers.csv)
 - Data collection and implementation pending
 
 ## Planned Development
