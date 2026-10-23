@@ -13,24 +13,28 @@ What each file is, where it came from, and what every row means.
 Still to collect: life tables (CDC), MCED sensitivity by stage, costs, utilities. Costs and utilities are in the supplement of Raoof et al. (Table S1).
 
 ## 2. parameters.csv
-Columns: parameter, value, source. One row per model input.
+Columns: category, parameter, value, source. One row per model input. Most values are blank until we find them.
 
-| Row | Meaning |
-|---|---|
-| baseline_cancer_incidence | Chance of getting cancer in the general population. Comes from the SEER incidence file. |
-| high_risk_multiplier | How many times more likely a risk group is to get cancer. See irr_by_cancer_type.csv. |
-| cancer_progression_probability | Monthly chance an undiagnosed cancer moves to the next stage. |
-| MCED_sensitivity_stage_1 to stage_4 | Chance the test is positive when cancer is present at that stage. Blank for now. |
-| MCED_specificity | 0.995. A healthy person tests negative 99.5% of the time. False alarms happen 0.5% of the time. |
-| screening_cost | Price of one test. |
-| diagnostic_workup_cost | Cost of follow-up after a positive test. |
-| treatment_cost | Cost of treatment, by stage. |
-| healthy_utility | Quality of life when healthy, from 0 to 1. |
-| cancer_utility | Quality of life with cancer, from 0 to 1. |
-| background_mortality | Chance of dying from other causes, by age. |
-| stage_specific_survival | How long people live after diagnosis, by stage. |
-| usual_care_diagnosis_probability | Chance cancer is found without MCED, by stage. |
-| discount_rate | Future costs and QALYs count less each year, for example 3%. |
+| Category | Row | Meaning |
+|---|---|---|
+| Population | population_size | 10,000 people simulated. Our assumption. |
+| Population | starting_age | 50. Everyone starts at this age. |
+| Population | simulation_years | 20 years of follow-up. |
+| Cancer | baseline_cancer_incidence | Chance of getting cancer in the general population. From the SEER incidence file. |
+| Cancer | high_risk_multiplier | How many times more likely a risk group is to get cancer. See irr_by_cancer_type.csv. |
+| Cancer | cancer_progression_probability | Monthly chance an undiagnosed cancer moves to the next stage. |
+| Cancer | usual_care_diagnosis_probability | Chance cancer is found without MCED, by stage. |
+| Screening | MCED_sensitivity_stage_1 to stage_4 | Chance the test is positive when cancer is present at that stage. |
+| Screening | MCED_specificity | A healthy person tests negative this often. Known value is 0.995 (Klein 2021, Raoof 2025). Not entered in the CSV yet. |
+| Screening | screening_interval_months | 12. One test per year. |
+| Survival | background_mortality | Chance of dying from other causes, by age. From US life tables. |
+| Survival | cancer_mortality_by_stage | Chance of dying from cancer, by stage. From SEER. |
+| Cost | screening_cost | Price of one test. |
+| Cost | diagnostic_workup_cost | Cost of follow-up after a positive test. |
+| Cost | treatment_cost_by_stage | Cost of treatment, by stage. |
+| Cost | discount_rate | Future costs and QALYs count less each year, for example 3%. Applies to costs and QALYs. |
+| QALY | healthy_utility | Quality of life when healthy, from 0 to 1. |
+| QALY | cancer_utility_by_stage | Quality of life with cancer, by stage, from 0 to 1. |
 
 ## 3. reference_icers.csv
 The answer key from Raoof et al. Table 3. One row per group.
