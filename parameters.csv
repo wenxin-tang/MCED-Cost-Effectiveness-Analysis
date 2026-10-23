@@ -18,3 +18,5 @@ Cost,diagnostic_workup_cost,,Literature
 Cost,treatment_cost_by_stage,,Literature
 QALY,healthy_utility,,Literature
 QALY,cancer_utility_by_stage,,Literature
+Cancer,usual_care_diagnosis_probability,,Literature
+Cost,discount_rate,,Literature

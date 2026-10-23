@@ -1,0 +1,277 @@
+model_cancer_type,seer_site,years,sex,age_group,stage,five_year_relative_survival_pct,number_of_cases
+Lung and bronchus,Lung and Bronchus,2015-2021,Both Sexes,All Ages,All Stages,28.1278,390091
+Lung and bronchus,Lung and Bronchus,2015-2021,Both Sexes,All Ages,Localized,64.6951,88260
+Lung and bronchus,Lung and Bronchus,2015-2021,Both Sexes,All Ages,Regional,37.1085,81440
+Lung and bronchus,Lung and Bronchus,2015-2021,Both Sexes,All Ages,Distant,9.6941,202840
+Lung and bronchus,Lung and Bronchus,2015-2021,Both Sexes,All Ages,Unstaged,16.4958,17545
+Lung and bronchus,Lung and Bronchus,2015-2021,Both Sexes,Ages 50-64,All Stages,30.1643,113536
+Lung and bronchus,Lung and Bronchus,2015-2021,Both Sexes,Ages 50-64,Localized,71.7849,21534
+Lung and bronchus,Lung and Bronchus,2015-2021,Both Sexes,Ages 50-64,Regional,42.5186,24472
+Lung and bronchus,Lung and Bronchus,2015-2021,Both Sexes,Ages 50-64,Distant,11.7313,64000
+Lung and bronchus,Lung and Bronchus,2015-2021,Both Sexes,Ages 50-64,Unstaged,23.0871,3529
+Lung and bronchus,Lung and Bronchus,2015-2021,Both Sexes,Ages 65+,All Stages,26.5178,263519
+Lung and bronchus,Lung and Bronchus,2015-2021,Both Sexes,Ages 65+,Localized,61.1048,64297
+Lung and bronchus,Lung and Bronchus,2015-2021,Both Sexes,Ages 65+,Regional,33.5194,54510
+Lung and bronchus,Lung and Bronchus,2015-2021,Both Sexes,Ages 65+,Distant,7.9775,131122
+Lung and bronchus,Lung and Bronchus,2015-2021,Both Sexes,Ages 65+,Unstaged,13.6308,13585
+Colon and rectum,Colon and Rectum (including Appendix),2015-2021,Both Sexes,All Ages,All Stages,65.3704,321143
+Colon and rectum,Colon and Rectum (including Appendix),2015-2021,Both Sexes,All Ages,Localized,91.4998,109940
+Colon and rectum,Colon and Rectum (including Appendix),2015-2021,Both Sexes,All Ages,Regional,74.6204,117461
+Colon and rectum,Colon and Rectum (including Appendix),2015-2021,Both Sexes,All Ages,Distant,16.1743,74456
+Colon and rectum,Colon and Rectum (including Appendix),2015-2021,Both Sexes,All Ages,Unstaged,49.449,19231
+Colon and rectum,Colon and Rectum (including Appendix),2015-2021,Both Sexes,Ages 50-64,All Stages,69.3886,114974
+Colon and rectum,Colon and Rectum (including Appendix),2015-2021,Both Sexes,Ages 50-64,Localized,93.8375,40530
+Colon and rectum,Colon and Rectum (including Appendix),2015-2021,Both Sexes,Ages 50-64,Regional,78.8113,41007
+Colon and rectum,Colon and Rectum (including Appendix),2015-2021,Both Sexes,Ages 50-64,Distant,18.5756,27498
+Colon and rectum,Colon and Rectum (including Appendix),2015-2021,Both Sexes,Ages 50-64,Unstaged,69.1193,5914
+Colon and rectum,Colon and Rectum (including Appendix),2015-2021,Both Sexes,Ages 65+,All Stages,60.6138,158522
+Colon and rectum,Colon and Rectum (including Appendix),2015-2021,Both Sexes,Ages 65+,Localized,88.3863,54286
+Colon and rectum,Colon and Rectum (including Appendix),2015-2021,Both Sexes,Ages 65+,Regional,69.188,58232
+Colon and rectum,Colon and Rectum (including Appendix),2015-2021,Both Sexes,Ages 65+,Distant,11.2359,34753
+Colon and rectum,Colon and Rectum (including Appendix),2015-2021,Both Sexes,Ages 65+,Unstaged,33.5859,11228
+Pancreas,Pancreas,2015-2021,Both Sexes,All Ages,All Stages,13.2753,111970
+Pancreas,Pancreas,2015-2021,Both Sexes,All Ages,Localized,43.6408,16342
+Pancreas,Pancreas,2015-2021,Both Sexes,All Ages,Regional,16.6866,31758
+Pancreas,Pancreas,2015-2021,Both Sexes,All Ages,Distant,3.2403,57159
+Pancreas,Pancreas,2015-2021,Both Sexes,All Ages,Unstaged,11.4329,6711
+Pancreas,Pancreas,2015-2021,Both Sexes,Ages 50-64,All Stages,15.8696,33201
+Pancreas,Pancreas,2015-2021,Both Sexes,Ages 50-64,Localized,55.8871,4129
+Pancreas,Pancreas,2015-2021,Both Sexes,Ages 50-64,Regional,19.8157,9887
+Pancreas,Pancreas,2015-2021,Both Sexes,Ages 50-64,Distant,4.4199,17886
+Pancreas,Pancreas,2015-2021,Both Sexes,Ages 50-64,Unstaged,19.9765,1299
+Pancreas,Pancreas,2015-2021,Both Sexes,Ages 65+,All Stages,9.2918,71490
+Pancreas,Pancreas,2015-2021,Both Sexes,Ages 65+,Localized,30.5247,10339
+Pancreas,Pancreas,2015-2021,Both Sexes,Ages 65+,Regional,12.8176,19957
+Pancreas,Pancreas,2015-2021,Both Sexes,Ages 65+,Distant,1.8933,36115
+Pancreas,Pancreas,2015-2021,Both Sexes,Ages 65+,Unstaged,6.6994,5079
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2015-2021,Both Sexes,All Ages,All Stages,21.9641,90110
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2015-2021,Both Sexes,All Ages,Localized,37.618,40163
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2015-2021,Both Sexes,All Ages,Regional,13.2091,21365
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2015-2021,Both Sexes,All Ages,Distant,3.4611,18581
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2015-2021,Both Sexes,All Ages,Unstaged,11.3467,9999
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2015-2021,Both Sexes,Ages 50-64,All Stages,23.1712,36703
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2015-2021,Both Sexes,Ages 50-64,Localized,39.663,16454
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2015-2021,Both Sexes,Ages 50-64,Regional,13.3517,9123
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2015-2021,Both Sexes,Ages 50-64,Distant,3.0937,7450
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2015-2021,Both Sexes,Ages 50-64,Unstaged,12.962,3675
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2015-2021,Both Sexes,Ages 65+,All Stages,18.967,47797
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2015-2021,Both Sexes,Ages 65+,Localized,33.5446,21352
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2015-2021,Both Sexes,Ages 65+,Regional,10.6382,10926
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2015-2021,Both Sexes,Ages 65+,Distant,2.5339,9730
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2015-2021,Both Sexes,Ages 65+,Unstaged,7.985,5788
+Breast,Breast,2015-2021,Female,All Ages,All Stages,91.6513,583250
+Breast,Breast,2015-2021,Female,All Ages,Localized,100,371928
+Breast,Breast,2015-2021,Female,All Ages,Regional,87.1766,161607
+Breast,Breast,2015-2021,Female,All Ages,Distant,32.6105,35457
+Breast,Breast,2015-2021,Female,All Ages,Unstaged,70.1634,14247
+Breast,Breast,2015-2021,Female,Ages 50-64,All Stages,91.6936,216625
+Breast,Breast,2015-2021,Female,Ages 50-64,Localized,98.9341,138178
+Breast,Breast,2015-2021,Female,Ages 50-64,Regional,88.3218,61458
+Breast,Breast,2015-2021,Female,Ages 50-64,Distant,34.0702,12610
+Breast,Breast,2015-2021,Female,Ages 50-64,Unstaged,76.3438,4376
+Breast,Breast,2015-2021,Female,Ages 65+,All Stages,92.1016,241060
+Breast,Breast,2015-2021,Female,Ages 65+,Localized,100,164726
+Breast,Breast,2015-2021,Female,Ages 65+,Regional,84.4906,53650
+Breast,Breast,2015-2021,Female,Ages 65+,Distant,25.5897,15608
+Breast,Breast,2015-2021,Female,Ages 65+,Unstaged,60.4179,7072
+Esophagus,Esophagus,2015-2021,Both Sexes,All Ages,All Stages,21.9024,35222
+Esophagus,Esophagus,2015-2021,Both Sexes,All Ages,Localized,48.662,6546
+Esophagus,Esophagus,2015-2021,Both Sexes,All Ages,Regional,28.4223,11267
+Esophagus,Esophagus,2015-2021,Both Sexes,All Ages,Distant,5.3591,13714
+Esophagus,Esophagus,2015-2021,Both Sexes,All Ages,Unstaged,16.0631,3694
+Esophagus,Esophagus,2015-2021,Both Sexes,Ages 50-64,All Stages,22.9267,12546
+Esophagus,Esophagus,2015-2021,Both Sexes,Ages 50-64,Localized,54.5633,2095
+Esophagus,Esophagus,2015-2021,Both Sexes,Ages 50-64,Regional,30.4303,4071
+Esophagus,Esophagus,2015-2021,Both Sexes,Ages 50-64,Distant,5.2739,5416
+Esophagus,Esophagus,2015-2021,Both Sexes,Ages 50-64,Unstaged,19.6693,964
+Esophagus,Esophagus,2015-2021,Both Sexes,Ages 65+,All Stages,20.9425,20610
+Esophagus,Esophagus,2015-2021,Both Sexes,Ages 65+,Localized,44.4703,4192
+Esophagus,Esophagus,2015-2021,Both Sexes,Ages 65+,Regional,26.3981,6550
+Esophagus,Esophagus,2015-2021,Both Sexes,Ages 65+,Distant,5.1874,7294
+Esophagus,Esophagus,2015-2021,Both Sexes,Ages 65+,Unstaged,13.5067,2573
+Head and neck,Oral Cavity and Pharynx,2015-2021,Both Sexes,All Ages,All Stages,69.497,98268
+Head and neck,Oral Cavity and Pharynx,2015-2021,Both Sexes,All Ages,Localized,88.4156,25758
+Head and neck,Oral Cavity and Pharynx,2015-2021,Both Sexes,All Ages,Regional,69.445,53195
+Head and neck,Oral Cavity and Pharynx,2015-2021,Both Sexes,All Ages,Distant,36.9293,12986
+Head and neck,Oral Cavity and Pharynx,2015-2021,Both Sexes,All Ages,Unstaged,61.3459,6320
+Head and neck,Oral Cavity and Pharynx,2015-2021,Both Sexes,Ages 50-64,All Stages,71.329,42539
+Head and neck,Oral Cavity and Pharynx,2015-2021,Both Sexes,Ages 50-64,Localized,88.1755,9268
+Head and neck,Oral Cavity and Pharynx,2015-2021,Both Sexes,Ages 50-64,Regional,72.8265,25335
+Head and neck,Oral Cavity and Pharynx,2015-2021,Both Sexes,Ages 50-64,Distant,39.0482,5693
+Head and neck,Oral Cavity and Pharynx,2015-2021,Both Sexes,Ages 50-64,Unstaged,68.16,2240
+Head and neck,Oral Cavity and Pharynx,2015-2021,Both Sexes,Ages 65+,All Stages,64.2106,42431
+Head and neck,Oral Cavity and Pharynx,2015-2021,Both Sexes,Ages 65+,Localized,86.2443,11949
+Head and neck,Oral Cavity and Pharynx,2015-2021,Both Sexes,Ages 65+,Regional,62.8368,21415
+Head and neck,Oral Cavity and Pharynx,2015-2021,Both Sexes,Ages 65+,Distant,30.9082,5724
+Head and neck,Oral Cavity and Pharynx,2015-2021,Both Sexes,Ages 65+,Unstaged,52.2541,3337
+Head and neck,Larynx,2015-2021,Both Sexes,All Ages,All Stages,62.1207,23387
+Head and neck,Larynx,2015-2021,Both Sexes,All Ages,Localized,79.2888,11442
+Head and neck,Larynx,2015-2021,Both Sexes,All Ages,Regional,48.9631,6777
+Head and neck,Larynx,2015-2021,Both Sexes,All Ages,Distant,35.1785,3698
+Head and neck,Larynx,2015-2021,Both Sexes,All Ages,Unstaged,58.4508,1470
+Head and neck,Larynx,2015-2021,Both Sexes,Ages 50-64,All Stages,61.7212,9905
+Head and neck,Larynx,2015-2021,Both Sexes,Ages 50-64,Localized,78.8109,4285
+Head and neck,Larynx,2015-2021,Both Sexes,Ages 50-64,Regional,52.0098,3288
+Head and neck,Larynx,2015-2021,Both Sexes,Ages 50-64,Distant,38.6885,1783
+Head and neck,Larynx,2015-2021,Both Sexes,Ages 50-64,Unstaged,60.5273,549
+Head and neck,Larynx,2015-2021,Both Sexes,Ages 65+,All Stages,60.9647,11952
+Head and neck,Larynx,2015-2021,Both Sexes,Ages 65+,Localized,78.5177,6444
+Head and neck,Larynx,2015-2021,Both Sexes,Ages 65+,Regional,43.1631,3017
+Head and neck,Larynx,2015-2021,Both Sexes,Ages 65+,Distant,28.3479,1645
+Head and neck,Larynx,2015-2021,Both Sexes,Ages 65+,Unstaged,55.4608,846
+Stomach,Stomach,2015-2021,Both Sexes,All Ages,All Stages,37.8778,60807
+Stomach,Stomach,2015-2021,Both Sexes,All Ages,Localized,76.51,18662
+Stomach,Stomach,2015-2021,Both Sexes,All Ages,Regional,37.236,14489
+Stomach,Stomach,2015-2021,Both Sexes,All Ages,Distant,7.5328,21775
+Stomach,Stomach,2015-2021,Both Sexes,All Ages,Unstaged,31.8787,5879
+Stomach,Stomach,2015-2021,Both Sexes,Ages 50-64,All Stages,41.3052,19446
+Stomach,Stomach,2015-2021,Both Sexes,Ages 50-64,Localized,85.1404,5794
+Stomach,Stomach,2015-2021,Both Sexes,Ages 50-64,Regional,39.4942,4784
+Stomach,Stomach,2015-2021,Both Sexes,Ages 50-64,Distant,8.1548,7514
+Stomach,Stomach,2015-2021,Both Sexes,Ages 50-64,Unstaged,47.143,1354
+Stomach,Stomach,2015-2021,Both Sexes,Ages 65+,All Stages,35.0018,33350
+Stomach,Stomach,2015-2021,Both Sexes,Ages 65+,Localized,69.2555,10656
+Stomach,Stomach,2015-2021,Both Sexes,Ages 65+,Regional,34.4524,7992
+Stomach,Stomach,2015-2021,Both Sexes,Ages 65+,Distant,6.9943,10751
+Stomach,Stomach,2015-2021,Both Sexes,Ages 65+,Unstaged,21.964,3949
+Ovarian,Ovary,2015-2021,Female,All Ages,All Stages,51.6139,50348
+Ovarian,Ovary,2015-2021,Female,All Ages,Localized,91.7464,10216
+Ovarian,Ovary,2015-2021,Female,All Ages,Regional,70.7421,9539
+Ovarian,Ovary,2015-2021,Female,All Ages,Distant,31.7837,27534
+Ovarian,Ovary,2015-2021,Female,All Ages,Unstaged,37.0171,3055
+Ovarian,Ovary,2015-2021,Female,Ages 50-64,All Stages,56.2276,17568
+Ovarian,Ovary,2015-2021,Female,Ages 50-64,Localized,91.6786,3766
+Ovarian,Ovary,2015-2021,Female,Ages 50-64,Regional,73.3432,3671
+Ovarian,Ovary,2015-2021,Female,Ages 50-64,Distant,36.6988,9349
+Ovarian,Ovary,2015-2021,Female,Ages 50-64,Unstaged,43.7106,782
+Ovarian,Ovary,2015-2021,Female,Ages 65+,All Stages,35.3517,21717
+Ovarian,Ovary,2015-2021,Female,Ages 65+,Localized,87.3834,2290
+Ovarian,Ovary,2015-2021,Female,Ages 65+,Regional,58.6359,3292
+Ovarian,Ovary,2015-2021,Female,Ages 65+,Distant,23.5921,14487
+Ovarian,Ovary,2015-2021,Female,Ages 65+,Unstaged,18.7255,1646
+Kidney and renal pelvis,Kidney and Renal Pelvis,2015-2021,Both Sexes,All Ages,All Stages,78.6169,145839
+Kidney and renal pelvis,Kidney and Renal Pelvis,2015-2021,Both Sexes,All Ages,Localized,93.3104,95867
+Kidney and renal pelvis,Kidney and Renal Pelvis,2015-2021,Both Sexes,All Ages,Regional,76.4408,24034
+Kidney and renal pelvis,Kidney and Renal Pelvis,2015-2021,Both Sexes,All Ages,Distant,19.0686,21149
+Kidney and renal pelvis,Kidney and Renal Pelvis,2015-2021,Both Sexes,All Ages,Unstaged,54.2803,4780
+Kidney and renal pelvis,Kidney and Renal Pelvis,2015-2021,Both Sexes,Ages 50-64,All Stages,81.1935,54720
+Kidney and renal pelvis,Kidney and Renal Pelvis,2015-2021,Both Sexes,Ages 50-64,Localized,94.3545,36841
+Kidney and renal pelvis,Kidney and Renal Pelvis,2015-2021,Both Sexes,Ages 50-64,Regional,79.9196,8822
+Kidney and renal pelvis,Kidney and Renal Pelvis,2015-2021,Both Sexes,Ages 50-64,Distant,22.1217,7722
+Kidney and renal pelvis,Kidney and Renal Pelvis,2015-2021,Both Sexes,Ages 50-64,Unstaged,65.4719,1334
+Kidney and renal pelvis,Kidney and Renal Pelvis,2015-2021,Both Sexes,Ages 65+,All Stages,72.5046,65882
+Kidney and renal pelvis,Kidney and Renal Pelvis,2015-2021,Both Sexes,Ages 65+,Localized,90.7415,40096
+Kidney and renal pelvis,Kidney and Renal Pelvis,2015-2021,Both Sexes,Ages 65+,Regional,71.3835,11771
+Kidney and renal pelvis,Kidney and Renal Pelvis,2015-2021,Both Sexes,Ages 65+,Distant,14.2767,11082
+Kidney and renal pelvis,Kidney and Renal Pelvis,2015-2021,Both Sexes,Ages 65+,Unstaged,43.1689,2929
+Prostate,Prostate,2015-2021,Male,All Ages,All Stages,97.9409,550655
+Prostate,Prostate,2015-2021,Male,All Ages,Localized,100,380790
+Prostate,Prostate,2015-2021,Male,All Ages,Regional,100,74596
+Prostate,Prostate,2015-2021,Male,All Ages,Distant,37.911,45164
+Prostate,Prostate,2015-2021,Male,All Ages,Unstaged,93.672,50095
+Prostate,Prostate,2015-2021,Male,Ages 50-64,All Stages,98.6607,206517
+Prostate,Prostate,2015-2021,Male,Ages 50-64,Localized,100,147161
+Prostate,Prostate,2015-2021,Male,Ages 50-64,Regional,100,33099
+Prostate,Prostate,2015-2021,Male,Ages 50-64,Distant,43.6698,11538
+Prostate,Prostate,2015-2021,Male,Ages 50-64,Unstaged,97.0778,14714
+Prostate,Prostate,2015-2021,Male,Ages 65+,All Stages,97.5574,333761
+Prostate,Prostate,2015-2021,Male,Ages 65+,Localized,100,226063
+Prostate,Prostate,2015-2021,Male,Ages 65+,Regional,100,39949
+Prostate,Prostate,2015-2021,Male,Ages 65+,Distant,35.7588,32948
+Prostate,Prostate,2015-2021,Male,Ages 65+,Unstaged,92.084,34796
+Lymphoma,Non-Hodgkin Lymphoma,2015-2021,Both Sexes,All Ages,All Stages,74.2006,158597
+Lymphoma,Non-Hodgkin Lymphoma,2015-2021,Both Sexes,All Ages,Localized,86.6786,40376
+Lymphoma,Non-Hodgkin Lymphoma,2015-2021,Both Sexes,All Ages,Regional,78.0941,22342
+Lymphoma,Non-Hodgkin Lymphoma,2015-2021,Both Sexes,All Ages,Distant,67.1696,81637
+Lymphoma,Non-Hodgkin Lymphoma,2015-2021,Both Sexes,All Ages,Unstaged,73.0034,14242
+Lymphoma,Non-Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 50-64,All Stages,79.7501,47306
+Lymphoma,Non-Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 50-64,Localized,91.1491,12092
+Lymphoma,Non-Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 50-64,Regional,84.4359,6594
+Lymphoma,Non-Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 50-64,Distant,72.5364,24800
+Lymphoma,Non-Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 50-64,Unstaged,82.4475,3820
+Lymphoma,Non-Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 65+,All Stages,66.8486,83755
+Lymphoma,Non-Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 65+,Localized,80.7848,20232
+Lymphoma,Non-Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 65+,Regional,69.0192,11185
+Lymphoma,Non-Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 65+,Distant,60.4459,44198
+Lymphoma,Non-Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 65+,Unstaged,63.9861,8140
+Lymphoma,Hodgkin Lymphoma,2015-2021,Both Sexes,All Ages,All Stages,89.0374,22319
+Lymphoma,Hodgkin Lymphoma,2015-2021,Both Sexes,All Ages,Localized,92.8775,3182
+Lymphoma,Hodgkin Lymphoma,2015-2021,Both Sexes,All Ages,Regional,94.5767,8136
+Lymphoma,Hodgkin Lymphoma,2015-2021,Both Sexes,All Ages,Distant,84.0726,9736
+Lymphoma,Hodgkin Lymphoma,2015-2021,Both Sexes,All Ages,Unstaged,81.9605,1265
+Lymphoma,Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 50-64,All Stages,84.2371,3768
+Lymphoma,Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 50-64,Localized,91.796,699
+Lymphoma,Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 50-64,Regional,89.9471,1040
+Lymphoma,Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 50-64,Distant,79.1686,1795
+Lymphoma,Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 50-64,Unstaged,74.8442,234
+Lymphoma,Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 65+,All Stages,63.1928,3542
+Lymphoma,Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 65+,Localized,76.2776,588
+Lymphoma,Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 65+,Regional,71.3155,801
+Lymphoma,Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 65+,Distant,57.4851,1887
+Lymphoma,Hodgkin Lymphoma,2015-2021,Both Sexes,Ages 65+,Unstaged,49.2482,266
+Anus,"Anus, Anal Canal & Anorectum",2015-2021,Both Sexes,All Ages,All Stages,71.2882,16710
+Anus,"Anus, Anal Canal & Anorectum",2015-2021,Both Sexes,All Ages,Localized,84.9623,6734
+Anus,"Anus, Anal Canal & Anorectum",2015-2021,Both Sexes,All Ages,Regional,70.3699,6226
+Anus,"Anus, Anal Canal & Anorectum",2015-2021,Both Sexes,All Ages,Distant,36.3448,2362
+Anus,"Anus, Anal Canal & Anorectum",2015-2021,Both Sexes,All Ages,Unstaged,66.4742,1388
+Anus,"Anus, Anal Canal & Anorectum",2015-2021,Both Sexes,Ages 50-64,All Stages,75.6696,7367
+Anus,"Anus, Anal Canal & Anorectum",2015-2021,Both Sexes,Ages 50-64,Localized,87.4799,2931
+Anus,"Anus, Anal Canal & Anorectum",2015-2021,Both Sexes,Ages 50-64,Regional,75.2975,2846
+Anus,"Anus, Anal Canal & Anorectum",2015-2021,Both Sexes,Ages 50-64,Distant,41.2328,1038
+Anus,"Anus, Anal Canal & Anorectum",2015-2021,Both Sexes,Ages 50-64,Unstaged,76.9074,552
+Anus,"Anus, Anal Canal & Anorectum",2015-2021,Both Sexes,Ages 65+,All Stages,66.3887,7269
+Anus,"Anus, Anal Canal & Anorectum",2015-2021,Both Sexes,Ages 65+,Localized,81.5573,3030
+Anus,"Anus, Anal Canal & Anorectum",2015-2021,Both Sexes,Ages 65+,Regional,64.1336,2538
+Anus,"Anus, Anal Canal & Anorectum",2015-2021,Both Sexes,Ages 65+,Distant,31.9365,1031
+Anus,"Anus, Anal Canal & Anorectum",2015-2021,Both Sexes,Ages 65+,Unstaged,57.6127,670
+Uterus,"Corpus and Uterus, NOS",2015-2021,Female,All Ages,All Stages,81.0547,140487
+Uterus,"Corpus and Uterus, NOS",2015-2021,Female,All Ages,Localized,95.0524,93910
+Uterus,"Corpus and Uterus, NOS",2015-2021,Female,All Ages,Regional,69.9777,25837
+Uterus,"Corpus and Uterus, NOS",2015-2021,Female,All Ages,Distant,19.4169,14782
+Uterus,"Corpus and Uterus, NOS",2015-2021,Female,All Ages,Unstaged,58.8028,5952
+Uterus,"Corpus and Uterus, NOS",2015-2021,Female,Ages 50-64,All Stages,84.2399,61290
+Uterus,"Corpus and Uterus, NOS",2015-2021,Female,Ages 50-64,Localized,95.8386,42553
+Uterus,"Corpus and Uterus, NOS",2015-2021,Female,Ages 50-64,Regional,74.8693,10887
+Uterus,"Corpus and Uterus, NOS",2015-2021,Female,Ages 50-64,Distant,21.868,5816
+Uterus,"Corpus and Uterus, NOS",2015-2021,Female,Ages 50-64,Unstaged,67.5036,2031
+Uterus,"Corpus and Uterus, NOS",2015-2021,Female,Ages 65+,All Stages,75.0769,60104
+Uterus,"Corpus and Uterus, NOS",2015-2021,Female,Ages 65+,Localized,93.5196,37569
+Uterus,"Corpus and Uterus, NOS",2015-2021,Female,Ages 65+,Regional,62.4866,12247
+Uterus,"Corpus and Uterus, NOS",2015-2021,Female,Ages 65+,Distant,14.2165,7428
+Uterus,"Corpus and Uterus, NOS",2015-2021,Female,Ages 65+,Unstaged,41.2237,2857
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,All Ages,All Stages,78.9757,143064
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,All Ages,In Situ,97.897,71910
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,All Ages,Localized,72.6406,48464
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,All Ages,Regional,40.5465,9861
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,All Ages,Distant,9.0828,7881
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,All Ages,Unstaged,51.5315,4948
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,Ages 50-64,All Stages,82.1331,35451
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,Ages 50-64,In Situ,97.4963,18758
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,Ages 50-64,Localized,80.5443,10906
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,Ages 50-64,Regional,43.6668,2749
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,Ages 50-64,Distant,10.343,2126
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,Ages 50-64,Unstaged,65.4944,912
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,Ages 65+,All Stages,77.3627,101465
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,Ages 65+,In Situ,97.9452,49393
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,Ages 65+,Localized,69.6148,36158
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,Ages 65+,Regional,38.9596,6661
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,Ages 65+,Distant,8.4034,5389
+Bladder,Urinary Bladder (Invasive & In Situ),2015-2021,Both Sexes,Ages 65+,Unstaged,46.6571,3864
+Cervix,Cervix Uteri,2015-2021,Female,All Ages,All Stages,68.048,36148
+Cervix,Cervix Uteri,2015-2021,Female,All Ages,Localized,91.3766,15052
+Cervix,Cervix Uteri,2015-2021,Female,All Ages,Regional,62.2848,13287
+Cervix,Cervix Uteri,2015-2021,Female,All Ages,Distant,19.5211,5526
+Cervix,Cervix Uteri,2015-2021,Female,All Ages,Unstaged,61.6148,2279
+Cervix,Cervix Uteri,2015-2021,Female,Ages 50-64,All Stages,63.1825,10611
+Cervix,Cervix Uteri,2015-2021,Female,Ages 50-64,Localized,88.7932,3538
+Cervix,Cervix Uteri,2015-2021,Female,Ages 50-64,Regional,63.6237,4359
+Cervix,Cervix Uteri,2015-2021,Female,Ages 50-64,Distant,20.3628,2098
+Cervix,Cervix Uteri,2015-2021,Female,Ages 50-64,Unstaged,57.0935,614
+Cervix,Cervix Uteri,2015-2021,Female,Ages 65+,All Stages,47.924,6551
+Cervix,Cervix Uteri,2015-2021,Female,Ages 65+,Localized,78.6751,1556
+Cervix,Cervix Uteri,2015-2021,Female,Ages 65+,Regional,51.8908,2855
+Cervix,Cervix Uteri,2015-2021,Female,Ages 65+,Distant,14.2068,1596
+Cervix,Cervix Uteri,2015-2021,Female,Ages 65+,Unstaged,35.6485,544
+All cancer sites,All Cancer Sites Combined,2015-2021,Both Sexes,All Ages,All Stages,69.948,3835159
+All cancer sites,All Cancer Sites Combined,2015-2021,Both Sexes,Ages 50-64,All Stages,73.347,1283169
+All cancer sites,All Cancer Sites Combined,2015-2021,Both Sexes,Ages 65+,All Stages,63.5043,1964069

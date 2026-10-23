@@ -1,0 +1,11 @@
+subpopulation,prevalence_pct,all_cause_mortality_hr,incremental_cost,incremental_qaly,icer_per_qaly,source
+General population,,,9162,0.14,66043,Raoof 2025 Table 3
+Diabetes,24.05,1.42,8988,0.14,66010,Raoof 2025 Tables 1 and 3
+Obesity,38.72,1.06,8760,0.15,60245,Raoof 2025 Tables 1 and 3
+Ever-smoker,42.72,1.41,7537,0.17,43553,Raoof 2025 Tables 1 and 3
+First-degree family history,54.97,1.00,7204,0.18,40155,Raoof 2025 Tables 1 and 3
+Cancer survivor,10.67,,5373,0.15,36774,Raoof 2025 Tables 1 and 3
+Heavy alcohol use,9.40,1.16,6453,0.18,35515,Raoof 2025 Tables 1 and 3
+Current smoker,11.60,1.95,5656,0.21,26850,Raoof 2025 Tables 1 and 3
+Immunocompromised SOT,0.06,,2600,0.14,18013,Raoof 2025 Tables 1 and 3
+HCS overall,2.18,1.00,148,0.27,544,Raoof 2025 Tables 1 and 3
