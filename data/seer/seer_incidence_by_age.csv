@@ -1,0 +1,115 @@
+model_cancer_type,seer_site,years,sex,stage,age_group,rate_per_100k,number_of_cases
+Lung and bronchus,Lung and Bronchus,2018-2022,Both Sexes,All Stages,50-54,28.9722,13836
+Lung and bronchus,Lung and Bronchus,2018-2022,Both Sexes,All Stages,55-59,69.3373,33729
+Lung and bronchus,Lung and Bronchus,2018-2022,Both Sexes,All Stages,60-64,128.1278,58457
+Lung and bronchus,Lung and Bronchus,2018-2022,Both Sexes,All Stages,65-69,193.2195,73892
+Lung and bronchus,Lung and Bronchus,2018-2022,Both Sexes,All Stages,70-74,267.183,80923
+Lung and bronchus,Lung and Bronchus,2018-2022,Both Sexes,All Stages,75-79,351.0845,71331
+Colon and rectum,Colon and Rectum (including Appendix),2018-2022,Both Sexes,All Stages,50-54,65.2148,31144
+Colon and rectum,Colon and Rectum (including Appendix),2018-2022,Both Sexes,All Stages,55-59,67.3145,32745
+Colon and rectum,Colon and Rectum (including Appendix),2018-2022,Both Sexes,All Stages,60-64,85.9898,39232
+Colon and rectum,Colon and Rectum (including Appendix),2018-2022,Both Sexes,All Stages,65-69,110.7092,42338
+Colon and rectum,Colon and Rectum (including Appendix),2018-2022,Both Sexes,All Stages,70-74,132.3814,40095
+Colon and rectum,Colon and Rectum (including Appendix),2018-2022,Both Sexes,All Stages,75-79,162.8019,33077
+Pancreas,Pancreas,2018-2022,Both Sexes,All Stages,50-54,11.8268,5648
+Pancreas,Pancreas,2018-2022,Both Sexes,All Stages,55-59,21.03,10230
+Pancreas,Pancreas,2018-2022,Both Sexes,All Stages,60-64,33.2216,15157
+Pancreas,Pancreas,2018-2022,Both Sexes,All Stages,65-69,49.9052,19085
+Pancreas,Pancreas,2018-2022,Both Sexes,All Stages,70-74,67.2192,20359
+Pancreas,Pancreas,2018-2022,Both Sexes,All Stages,75-79,87.2802,17733
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2018-2022,Both Sexes,All Stages,50-54,8.7905,4198
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2018-2022,Both Sexes,All Stages,55-59,19.443,9458
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2018-2022,Both Sexes,All Stages,60-64,33.6818,15367
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2018-2022,Both Sexes,All Stages,65-69,46.2025,17669
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2018-2022,Both Sexes,All Stages,70-74,45.9761,13925
+Liver and bile duct,Liver and Intrahepatic Bile Duct,2018-2022,Both Sexes,All Stages,75-79,48.1362,9780
+Breast,Breast,2018-2022,Female,All Stages,50-54,238.7967,57146
+Breast,Breast,2018-2022,Female,All Stages,55-59,269.7797,66473
+Breast,Breast,2018-2022,Female,All Stages,60-64,337.5892,79029
+Breast,Breast,2018-2022,Female,All Stages,65-69,418.7522,84093
+Breast,Breast,2018-2022,Female,All Stages,70-74,472.9537,76897
+Breast,Breast,2018-2022,Female,All Stages,75-79,471.5595,53023
+Esophagus,Esophagus,2018-2022,Both Sexes,All Stages,50-54,4.2089,2010
+Esophagus,Esophagus,2018-2022,Both Sexes,All Stages,55-59,8.0625,3922
+Esophagus,Esophagus,2018-2022,Both Sexes,All Stages,60-64,12.7674,5825
+Esophagus,Esophagus,2018-2022,Both Sexes,All Stages,65-69,17.6165,6737
+Esophagus,Esophagus,2018-2022,Both Sexes,All Stages,70-74,21.5072,6514
+Esophagus,Esophagus,2018-2022,Both Sexes,All Stages,75-79,23.6891,4813
+Head and neck,Oral Cavity and Pharynx,2018-2022,Both Sexes,All Stages,50-54,18.5631,8865
+Head and neck,Oral Cavity and Pharynx,2018-2022,Both Sexes,All Stages,55-59,28.7677,13994
+Head and neck,Oral Cavity and Pharynx,2018-2022,Both Sexes,All Stages,60-64,37.5899,17150
+Head and neck,Oral Cavity and Pharynx,2018-2022,Both Sexes,All Stages,65-69,43.7785,16742
+Head and neck,Oral Cavity and Pharynx,2018-2022,Both Sexes,All Stages,70-74,47.0029,14236
+Head and neck,Oral Cavity and Pharynx,2018-2022,Both Sexes,All Stages,75-79,48.5251,9859
+Head and neck,Larynx,2018-2022,Both Sexes,All Stages,50-54,3.0384,1451
+Head and neck,Larynx,2018-2022,Both Sexes,All Stages,55-59,6.2823,3056
+Head and neck,Larynx,2018-2022,Both Sexes,All Stages,60-64,9.3657,4273
+Head and neck,Larynx,2018-2022,Both Sexes,All Stages,65-69,11.3146,4327
+Head and neck,Larynx,2018-2022,Both Sexes,All Stages,70-74,12.1634,3684
+Head and neck,Larynx,2018-2022,Both Sexes,All Stages,75-79,12.4229,2524
+Stomach,Stomach,2018-2022,Both Sexes,All Stages,50-54,8.6418,4127
+Stomach,Stomach,2018-2022,Both Sexes,All Stages,55-59,12.4947,6078
+Stomach,Stomach,2018-2022,Both Sexes,All Stages,60-64,17.4711,7971
+Stomach,Stomach,2018-2022,Both Sexes,All Stages,65-69,24.3943,9329
+Stomach,Stomach,2018-2022,Both Sexes,All Stages,70-74,30.5242,9245
+Stomach,Stomach,2018-2022,Both Sexes,All Stages,75-79,38.8831,7900
+Ovarian,Ovary,2018-2022,Female,All Stages,50-54,17.7888,4257
+Ovarian,Ovary,2018-2022,Female,All Stages,55-59,21.1488,5211
+Ovarian,Ovary,2018-2022,Female,All Stages,60-64,25.4295,5953
+Ovarian,Ovary,2018-2022,Female,All Stages,65-69,28.3441,5692
+Ovarian,Ovary,2018-2022,Female,All Stages,70-74,33.3848,5428
+Ovarian,Ovary,2018-2022,Female,All Stages,75-79,38.0908,4283
+Kidney and renal pelvis,Kidney and Renal Pelvis,2018-2022,Both Sexes,All Stages,50-54,26.1349,12481
+Kidney and renal pelvis,Kidney and Renal Pelvis,2018-2022,Both Sexes,All Stages,55-59,36.2916,17654
+Kidney and renal pelvis,Kidney and Renal Pelvis,2018-2022,Both Sexes,All Stages,60-64,48.6696,22205
+Kidney and renal pelvis,Kidney and Renal Pelvis,2018-2022,Both Sexes,All Stages,65-69,63.466,24271
+Kidney and renal pelvis,Kidney and Renal Pelvis,2018-2022,Both Sexes,All Stages,70-74,72.5679,21979
+Kidney and renal pelvis,Kidney and Renal Pelvis,2018-2022,Both Sexes,All Stages,75-79,78.972,16045
+Prostate,Prostate,2018-2022,Male,All Stages,50-54,106.0599,25269
+Prostate,Prostate,2018-2022,Male,All Stages,55-59,246.4938,59171
+Prostate,Prostate,2018-2022,Male,All Stages,60-64,434.056,96422
+Prostate,Prostate,2018-2022,Male,All Stages,65-69,687.7045,124892
+Prostate,Prostate,2018-2022,Male,All Stages,70-74,730.2657,102446
+Prostate,Prostate,2018-2022,Male,All Stages,75-79,698.0486,63335
+Lymphoma,Non-Hodgkin Lymphoma,2018-2022,Both Sexes,All Stages,50-54,20.1901,9642
+Lymphoma,Non-Hodgkin Lymphoma,2018-2022,Both Sexes,All Stages,55-59,29.442,14322
+Lymphoma,Non-Hodgkin Lymphoma,2018-2022,Both Sexes,All Stages,60-64,41.2415,18816
+Lymphoma,Non-Hodgkin Lymphoma,2018-2022,Both Sexes,All Stages,65-69,59.039,22578
+Lymphoma,Non-Hodgkin Lymphoma,2018-2022,Both Sexes,All Stages,70-74,77.4941,23471
+Lymphoma,Non-Hodgkin Lymphoma,2018-2022,Both Sexes,All Stages,75-79,102.8777,20902
+Lymphoma,Hodgkin Lymphoma,2018-2022,Both Sexes,All Stages,50-54,2.1547,1029
+Lymphoma,Hodgkin Lymphoma,2018-2022,Both Sexes,All Stages,55-59,2.434,1184
+Lymphoma,Hodgkin Lymphoma,2018-2022,Both Sexes,All Stages,60-64,2.4965,1139
+Lymphoma,Hodgkin Lymphoma,2018-2022,Both Sexes,All Stages,65-69,2.9914,1144
+Lymphoma,Hodgkin Lymphoma,2018-2022,Both Sexes,All Stages,70-74,3.4007,1030
+Lymphoma,Hodgkin Lymphoma,2018-2022,Both Sexes,All Stages,75-79,4.0114,815
+Anus,"Anus, Anal Canal & Anorectum",2018-2022,Both Sexes,All Stages,50-54,3.3462,1598
+Anus,"Anus, Anal Canal & Anorectum",2018-2022,Both Sexes,All Stages,55-59,4.9789,2422
+Anus,"Anus, Anal Canal & Anorectum",2018-2022,Both Sexes,All Stages,60-64,6.5689,2997
+Anus,"Anus, Anal Canal & Anorectum",2018-2022,Both Sexes,All Stages,65-69,7.3557,2813
+Anus,"Anus, Anal Canal & Anorectum",2018-2022,Both Sexes,All Stages,70-74,7.6896,2329
+Anus,"Anus, Anal Canal & Anorectum",2018-2022,Both Sexes,All Stages,75-79,8.1211,1650
+Uterus,"Corpus and Uterus, NOS",2018-2022,Female,All Stages,50-54,48.0134,11490
+Uterus,"Corpus and Uterus, NOS",2018-2022,Female,All Stages,55-59,77.4278,19078
+Uterus,"Corpus and Uterus, NOS",2018-2022,Female,All Stages,60-64,101.0602,23658
+Uterus,"Corpus and Uterus, NOS",2018-2022,Female,All Stages,65-69,113.182,22729
+Uterus,"Corpus and Uterus, NOS",2018-2022,Female,All Stages,70-74,112.0802,18223
+Uterus,"Corpus and Uterus, NOS",2018-2022,Female,All Stages,75-79,98.442,11069
+Bladder,Urinary Bladder (Invasive & In Situ),2018-2022,Both Sexes,All Stages,50-54,10.3086,4923
+Bladder,Urinary Bladder (Invasive & In Situ),2018-2022,Both Sexes,All Stages,55-59,20.3496,9899
+Bladder,Urinary Bladder (Invasive & In Situ),2018-2022,Both Sexes,All Stages,60-64,37.0594,16908
+Bladder,Urinary Bladder (Invasive & In Situ),2018-2022,Both Sexes,All Stages,65-69,61.2277,23415
+Bladder,Urinary Bladder (Invasive & In Situ),2018-2022,Both Sexes,All Stages,70-74,92.1503,27910
+Bladder,Urinary Bladder (Invasive & In Situ),2018-2022,Both Sexes,All Stages,75-79,132.3845,26897
+Cervix,Cervix Uteri,2018-2022,Female,All Stages,50-54,12.9874,3108
+Cervix,Cervix Uteri,2018-2022,Female,All Stages,55-59,12.2647,3022
+Cervix,Cervix Uteri,2018-2022,Female,All Stages,60-64,11.7728,2756
+Cervix,Cervix Uteri,2018-2022,Female,All Stages,65-69,10.4821,2105
+Cervix,Cervix Uteri,2018-2022,Female,All Stages,70-74,10.6157,1726
+Cervix,Cervix Uteri,2018-2022,Female,All Stages,75-79,9.9429,1118
+All cancer sites,All Cancer Sites Combined,2018-2022,Both Sexes,All Stages,50-54,537.8586,256860
+All cancer sites,All Cancer Sites Combined,2018-2022,Both Sexes,All Stages,55-59,794.3644,386417
+All cancer sites,All Cancer Sites Combined,2018-2022,Both Sexes,All Stages,60-64,1157.4238,528063
+All cancer sites,All Cancer Sites Combined,2018-2022,Both Sexes,All Stages,65-69,1603.6838,613289
+All cancer sites,All Cancer Sites Combined,2018-2022,Both Sexes,All Stages,70-74,1923.6728,582632
+All cancer sites,All Cancer Sites Combined,2018-2022,Both Sexes,All Stages,75-79,2229.5004,452975
