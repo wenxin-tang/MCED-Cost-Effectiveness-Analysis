@@ -1,18 +1,22 @@
-parameter,value,source
-baseline_cancer_incidence,,SEER
-high_risk_multiplier,,Literature
-cancer_progression_probability,,Literature
-MCED_sensitivity_stage_1,,Clinical study
-MCED_sensitivity_stage_2,,Clinical study
-MCED_sensitivity_stage_3,,Clinical study
-MCED_sensitivity_stage_4,,Clinical study
-MCED_specificity,0.995,Klein 2021; Raoof 2025
-screening_cost,,Literature
-diagnostic_workup_cost,,Literature
-treatment_cost,,Literature
-healthy_utility,,Literature
-cancer_utility,,Literature
-background_mortality,,Life tables
-stage_specific_survival,,SEER
-usual_care_diagnosis_probability,,Literature
-discount_rate,,Literature
+category,parameter,value,source
+Population,population_size,10000,Model assumption
+Population,starting_age,50,Model assumption
+Population,simulation_years,20,Model assumption
+Cancer,baseline_cancer_incidence,,SEER
+Cancer,high_risk_multiplier,,Literature or scenario assumption
+Cancer,cancer_progression_probability,,Literature
+Screening,MCED_sensitivity_stage_1,,Clinical study
+Screening,MCED_sensitivity_stage_2,,Clinical study
+Screening,MCED_sensitivity_stage_3,,Clinical study
+Screening,MCED_sensitivity_stage_4,,Clinical study
+Screening,MCED_specificity,,Clinical study
+Screening,screening_interval_months,12,Model assumption
+Survival,background_mortality,,US life tables
+Survival,cancer_mortality_by_stage,,SEER or Literature
+Cost,screening_cost,,Literature
+Cost,diagnostic_workup_cost,,Literature
+Cost,treatment_cost_by_stage,,Literature
+QALY,healthy_utility,,Literature
+QALY,cancer_utility_by_stage,,Literature
+Cancer,usual_care_diagnosis_probability,,Literature
+Cost,discount_rate,,Literature
