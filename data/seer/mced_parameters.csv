@@ -1,0 +1,11 @@
+parameter,value,source
+screening_cost,949,Raoof_2025
+specificity,0.995,Raoof_2025
+screening_compliance,0.90,Raoof_2025
+discount_rate,0.03,Raoof_2025
+sensitivity_stage_1,0.22,Klein_2021
+sensitivity_stage_2,0.80,Klein_2021
+sensitivity_stage_3,0.91,Klein_2021
+sensitivity_stage_4,0.95,Klein_2021
+risk_multiplier_current_smoker,3.75,Raoof_2025
+risk_multiplier_ever_smoker,2.13,Raoof_2025
