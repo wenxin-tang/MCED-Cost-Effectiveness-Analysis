@@ -1,15 +1,5 @@
-"""Read and validate the MCED model's category,parameter,value,source CSV.
-
-Usage from Python (place this file beside parameters.csv)::
-
-    from parameter_loader import load_parameters, require_parameters
-    params = load_parameters()
-    require_parameters(params, ["population_size", "MCED_specificity"])
-
-Blank values remain None; no clinical assumptions or stage mappings are added.
-Run ``python parameter_loader.py`` to report missing inputs, or add
-``--require MCED_specificity screening_interval_months`` to check a subset.
-Only the Python standard library is required.
+"""
+Read and validate the MCED model's category,parameter,value,source CSV.
 """
 
 import argparse
@@ -43,7 +33,8 @@ NONNEGATIVE = {
 
 
 def load_parameters(csv_path=None):
-    """Return {parameter_name: int | float | None} without altering the CSV.
+    """
+    Return {parameter_name: int | float | None} without altering the CSV.
 
     The default path is relative to this module, not the working directory.
     Unknown parameter names are accepted as finite numeric inputs so that
@@ -95,7 +86,8 @@ def load_parameters(csv_path=None):
 
 
 def require_parameters(parameters, required_names):
-    """Raise ParameterError if any required name is absent or blank.
+    """
+    Raise ParameterError if any required name is absent or blank.
 
     Call after load_parameters and before running the corresponding model arm.
     """
